@@ -40,7 +40,7 @@
 #### MoE
 
 * [2024/05] **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model** | [paper](http://arxiv.org/abs/2405.04434) | [code](https://github.com/deepseek-ai/DeepSeek-V2)
-* [2024/01] DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models| [paper](http://arxiv.org/abs/2401.06066) | [code](https://github.com/deepseek-ai/DeepSeek-MoE)
+* [2024/01] **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models** | [paper](http://arxiv.org/abs/2401.06066) | [code](https://github.com/deepseek-ai/DeepSeek-MoE)
 * [2024/01] **Mixtral of Experts** | [paper](http://arxiv.org/abs/2401.04088) 
 * [2022/02] **ST-MoE: Designing Stable and Transferable Sparse Expert Models** | [paper](http://arxiv.org/abs/2202.08906)
 * [2021/12] **GLaM: Efficient Scaling of Language Models with Mixture-of-Experts** | [paper](http://arxiv.org/abs/2112.06905)
@@ -87,7 +87,7 @@
 
 * [2025/03] **Self-Rewarding Language Models** | [paper](http://arxiv.org/abs/2401.10020)  
 * [2024/12] **The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models** | [paper](http://arxiv.org/abs/2404.16019)  
-* [2024/11] **ReST-MCTS*: LLM Self-Training via Process-Reward-Guided Tree Search** | [paper](http://arxiv.org/abs/2406.03816) | [code](https://github.com/THUDM/ReST-MCTS)  
+* [2024/11] **ReST-MCTS\*: LLM Self-Training via Process-Reward-Guided Tree Search** | [paper](http://arxiv.org/abs/2406.03816) | [code](https://github.com/THUDM/ReST-MCTS)  
 * [2024/07] **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** | [paper](http://arxiv.org/abs/2305.18290) | [code](https://github.com/huggingface/trl)
 * [2024/06] **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models** | [paper](http://arxiv.org/abs/2401.01335) | [code](https://github.com/uclaml/SPIN)
 * [2024/06] **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning** | [paper](http://arxiv.org/abs/2405.00451) | [code](https://github.com/YuxiXie/MCTS-DPO)  
@@ -153,7 +153,6 @@
 * [2023/10] **WizardCoder: Empowering Code Large Language Models with Evol-Instruct** | [paper](http://arxiv.org/abs/2306.08568) | [code](https://github.com/nlpxucan/WizardLM)
 * [2023/09] **Measuring Coding-Challenge Competence with APPS** | [paper](http://arxiv.org/abs/2105.09938) | [code](https://github.com/hendrycks/apps)
 * [2023/06] **Program Synthesis with Large Language Models** | [paper](http://arxiv.org/abs/2108.07732)
-* [2023/05] CodeBLEU2 (earlier draft) – see CodeBLEU2 above
 * [2022/11] **CodeT: Code Generation with Generated Tests** | [paper](http://arxiv.org/abs/2207.10397) | [code](https://github.com/microsoft/CodeT/tree/main/CodeT)
 * [2022/07] **Efficient Training of Language Models to Fill in the Middle** | [paper](http://arxiv.org/abs/2207.14255)
 * [2022/04] **InCoder: A Generative Model for Code Infilling and Synthesis** | [paper](http://arxiv.org/abs/2204.05999) | [code](https://github.com/dpfried/incoder)
