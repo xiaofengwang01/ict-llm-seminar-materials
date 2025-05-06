@@ -1,14 +1,14 @@
 - [Pretrain](#pretrain)
-  - [Dense models](#dense-models)
+  - [Dense Models](#dense-models)
   - [MoE](#moe)
   - [Scaling Laws \& Emergent Analysis](#scaling-laws--emergent-analysis)
-- [Instruction Turing / Supervised Fine-tuning](#instruction-turing--supervised-fine-tuning)
+- [Instruction Tuning / Supervised Fine-tuning](#instruction-tuning--supervised-fine-tuning)
 - [Fine-Tuning](#fine-tuning)
 - [Alignment  /  RLHF](#alignment----rlhf)
 - [Inference](#inference)
 - [Reasoning](#reasoning)
 - [AI Infra](#ai-infra)
-- [AI4code](#ai4code)
+- [AI4Code](#ai4code)
 - [AIGC](#aigc)
 - [LLM Agent](#llm-agent)
 - [MLLMs](#mllms)
@@ -17,7 +17,7 @@
 
 ### Pretrain
 
-#### Dense models
+#### Dense Models
 
 * [2024/07] **The Llama 3 Herd of Models** | [paper](http://arxiv.org/abs/2407.21783) | [code](https://github.com/meta-llama/llama3)  
 * [2024/05] **The Road Less Scheduled** | [paper](http://arxiv.org/abs/2405.15682) | [code](https://github.com/facebookresearch/schedule_free)
@@ -59,7 +59,7 @@
 * [2020/01] **Scaling Laws for Neural Language Models** | [paper](http://arxiv.org/abs/2001.08361) 
 
 
-### Instruction Turing / Supervised Fine-tuning
+### Instruction Tuning / Supervised Fine-tuning
 
 * [2024/12] **Instruction Tuning for Large Language Models: A Survey** | [paper](http://arxiv.org/abs/2308.10792)| [code](https://github.com/xiaoya-li/Instruction-Tuning-Survey)
 * [2024/03] **COIG-CQIA: Quality Is All You Need for Chinese Instruction Fine-Tuning** | [paper](http://arxiv.org/abs/2403.18058)
@@ -125,7 +125,7 @@
 * [2019/10] **ZeRO: Memory Optimizations Toward Training Trillion Parameter Models** | [paper](http://arxiv.org/abs/1910.02054)
 
 
-### AI4code 
+### AI4Code 
 
 * [2025/04] **QiMeng-GEMM: Automatically Generating High-Performance Matrix Multiplication Code by Exploiting Large Language Models** | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34461)
 * [2025/01] **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond** | [paper](http://arxiv.org/abs/2403.14734)
